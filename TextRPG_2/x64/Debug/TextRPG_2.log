@@ -1,0 +1,5 @@
+﻿  TextRPG_2.cpp
+C:\Users\marco\source\repos\TextRPG_2\TextRPG_2\TextRPG_2.cpp(326,30): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\marco\source\repos\TextRPG_2\TextRPG_2\TextRPG_2.cpp(441,20): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\marco\source\repos\TextRPG_2\TextRPG_2\TextRPG_2.cpp(462,34): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\marco\source\repos\TextRPG_2\TextRPG_2\TextRPG_2.cpp(462,17): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
